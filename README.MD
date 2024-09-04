@@ -3,7 +3,7 @@
 Dependencies are used;
 - react-redux
 - redux
-- reduxjs-toolit
+- reduxjs/toolkit
 - Firebase , Realtime Database
 
 
